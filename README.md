@@ -1,3 +1,3 @@
 # htmlLearningApp
 
-![Alt text](/relative/path/to/AppScreenshot.jpeg?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/thejaved/htmlLearningApp/main/AppScreenshot.jpeg?raw=true "Optional Title")
