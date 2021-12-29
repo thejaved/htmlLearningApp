@@ -1,3 +1,3 @@
 # htmlLearningApp
 
-![Learn Html App Screenshort](https://raw.githubusercontent.com/thejaved/htmlLearningApp/main/AppScreenshot.jpeg?raw=true "Learn Html App Screenshort")
+<img src="https://raw.githubusercontent.com/thejaved/htmlLearningApp/main/AppScreenshot.jpeg" alt="blender" width="200" height="700"/>
